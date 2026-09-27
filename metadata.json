@@ -1,0 +1,8 @@
+{
+  "name": "Test 1",
+  "description": "Test 1 application imported from GitHub.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
